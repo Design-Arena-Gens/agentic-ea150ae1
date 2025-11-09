@@ -1,0 +1,5 @@
+body { background-color: #f7f8fa; }
+.card-thread { cursor: pointer; }
+.message { border-radius: 0.5rem; padding: 0.75rem; }
+.message.me { background: #e7f1ff; }
+.message.other { background: #f1f3f5; }
